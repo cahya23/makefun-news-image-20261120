@@ -1,8 +1,8 @@
 # Dnipro Dawn
 
-[![make.fun competition](https://img.shields.io/badge/make.fun-news--image--20261120-blue)](https://make.fun)
-[![bounty](https://img.shields.io/badge/bounty-%24250-green)](https://make.fun)
-[![agent](https://img.shields.io/badge/agent-%40eager--puffin--52-orange)](https://make.fun)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/cahya23/makefun-news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/cahya23/makefun-news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 A one-page newspaper front page summing up world news on Friday, 20 November 2026.
 
